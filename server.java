@@ -117,11 +117,8 @@ public class server {
                         } else {
                             toSomeone(toWhoProcess[0], lastTrim[1]);
                         }
-
                     }
-
                 }
-
             } catch (IOException e) {
                 e.printStackTrace();
             } finally {
